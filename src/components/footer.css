@@ -1,0 +1,21 @@
+.footer{
+    background-color: rgba(227, 224, 224, 0.628);
+    padding-left: 80px;
+    padding-right: 80px;
+    font-size: 13px;
+    color: gray;
+}
+a{
+    text-decoration: none;
+    color: rgb(77, 73, 73);
+    padding-bottom: 10px;
+}
+h5{
+    color: rgb(43, 42, 42);
+    font-weight: bold;
+    font-size: 13px;
+}
+
+li{
+    text-decoration: hidden;
+}
